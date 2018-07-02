@@ -1,0 +1,150 @@
+a { text-decoration: none;}
+a:hover {background: yellow}
+a:visited {background: blue}
+a:link {color: white}
+body
+{
+	background: black;
+	color: white;
+	font-family: Tahoma;
+	font-size: 1em;
+}
+figcaption { display: none; }
+footer
+{
+	clear: both;
+	margin: 2em 0;
+	padding: 2em 0;
+}
+header
+{
+	background: rgba(255,255,255,.4);
+	height: 3em;
+	padding: 1em 2em;
+}
+h1,h2,h3,h4,h5,h6
+{
+	font-family: Garamond;
+	font-weight: bold;
+}
+
+nav
+{
+	float: right;
+	margin-top: .8em;
+	text-transform: uppercase;
+}
+nav a
+{
+	color: white;
+	margin: 0 .3em;
+	padding: 1.8em 1em;
+}
+#descarga
+{
+	background: white;
+	clear: both;
+	color: black;
+	height: 6em;
+	margin: 1em 0;
+	padding: 2em;
+}
+#descarga h4
+{
+	float: left;
+}
+#info
+{
+	padding: 1.5em 0;
+	text-transform: uppercase;
+}
+#info a
+{
+	color: gray;
+	margin: 0 0.8em;
+}
+#logo
+{
+	float: left;
+}
+#contacto,
+#noticias,
+#portafolio
+{
+	clear: both;
+}
+#musica
+{
+	text-align: center;
+}
+#noticias article,
+#noticias div
+{
+	color: rgb(255,255,255);
+	float: left;
+	padding: 2%;
+	width: 21%;
+}
+#portafolio div
+{
+	float: left;
+	width: 20%;
+}
+#portafolio img
+{
+	float: left;
+}
+#servicios
+{
+	clear: both;
+	height: 14em;
+	margin: 1em 0;
+}
+#servicios h2 {color: rgb(0,0,0); }
+#servicios p {color: rgb(0,0,0);}
+#servicios-aplicaciones { background: rgb(245,100,0); }
+#servicios-diseno-web { background: rgb(245,255,0); }
+#servicios-sistemas { background: rgb(245,150,0); }
+#servicios .servicios-caja a
+{
+	background: rgba(255,255,255,.3);
+	color: rgb(255,255,255);
+	font-size: .8em;
+	padding: .3em .8em;
+}
+
+#servicios img {float: both; position: relative; vertical-align: top;}
+
+#slogan
+{
+	clear: both;
+}
+#video1
+{
+	text-align: center;
+}
+.archivo-descarga
+{
+	float: right;
+}
+.centro
+{
+	text-align:center; 
+}
+.enlinea
+{
+	display:inline;
+}
+.contenedor
+{
+	margin: 0.8em auto;
+	width: 62.5em;
+}
+.servicios-caja
+{
+	background: rgb(70,70,70);
+	float: left;
+	height: 12em;
+	padding: 0.8em;
+	width: 14em;
+}
